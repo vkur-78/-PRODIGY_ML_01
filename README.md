@@ -19,8 +19,8 @@ As this is my initial machine learning project, there is ample room for improvem
 In conclusion, this project marks my entry into the field of machine learning. Through EDA and model comparison, I gained valuable insights into the dataset and identified a robust model for predicting house prices. This experience serves as a foundation for future projects and continuous learning in the exciting realm of machine learning.
 
 ## Acknowledgement
-This project is created for educational purposes as part of my internship at @YourCompanyName.
+This project is created for educational purposes as part of my internship at @Prodigy_Infotech Internship
 
 Feel free to explore, modify, or expand upon this project!
 
-If you have any questions, suggestions, or feedback, please feel free to email me at your.vp701049@example.com.
+If you have any questions, suggestions, or feedback, please feel free to email me at vp701049@example.com.
